@@ -6,4 +6,8 @@ I did all the data and code exploration in  the 'weather_data_treatment.ipynb' n
 
 The 'src' folder contains the scripts I used to clean the weather data, the 'data' folder contains all the weather data csv files, and the 'images' folder contains all the figures and plots I used for the final report.
 
+EDIT:
+I just realized the data folder contains the cleaned weather data, whereas the data/cleaned_data folder actually contains the raw weather data, woops!
+
+
 Thank you!
