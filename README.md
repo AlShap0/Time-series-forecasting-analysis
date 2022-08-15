@@ -1,4 +1,5 @@
-# Analysis of predictuve power of the SARIMA model 
+# Time Series forecasting at the two extremes: Predictable and Unpredictable
+##Analysis of predictuve power of the SARIMA model 
 
 ## Project summary
 
